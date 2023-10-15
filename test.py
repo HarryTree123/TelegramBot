@@ -9,6 +9,3 @@ def sub(a, b):
     s2 = a - b
     return False
 
-s_var = s(34, 56)
-print(s_var)
-print(sub(a, b))
